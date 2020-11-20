@@ -19,6 +19,7 @@ class _HomeScreenState extends State<HomeScreen> {
   @override
   void initState() {
     super.initState();
+    print('hotfix 내용 변경');
     //beer 테이블 title 조건 'Heineken', 'Hoegaarden', '1664 Blanc'
     streamData = firebaseFirestore.collection('beer').where('title', whereIn: ['Heineken', 'Hoegaarden', '1664 Blanc']).snapshots();
   }
