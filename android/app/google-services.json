@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "296710266984",
+    "firebase_url": "https://flutterbeer-eb4f3.firebaseio.com",
+    "project_id": "flutterbeer-eb4f3",
+    "storage_bucket": "flutterbeer-eb4f3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:296710266984:android:e36ab9bb8de52b52465bdd",
+        "android_client_info": {
+          "package_name": "com.busanginc.flutter_beerrecord"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "296710266984-jtd0q9satgeko182hdgd14hqk222v1q4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBYOYNtJD3Db4gNNsIUc6I4cPm_evyWXbs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "296710266984-jtd0q9satgeko182hdgd14hqk222v1q4.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "296710266984-ggvh22lh6colepbb69mkiarb3ji1et8a.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.busanginc.flutterBeerrecord"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
