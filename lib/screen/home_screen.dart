@@ -20,7 +20,7 @@ class _HomeScreenState extends State<HomeScreen> {
   void initState() {
     super.initState();
     print('master 추가');
-    //beer 테이블 title 조건
+    //beer 테이블 title 조건 입니다.
     streamData = firebaseFirestore.collection('beer').where('title', whereIn: ['Heineken', 'Hoegaarden', '1664 Blanc']).snapshots();
   }
 
